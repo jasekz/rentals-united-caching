@@ -1,0 +1,16 @@
+{
+    "name": "jasekz/rentals-united-caching",
+    "keywords": ["php","laravel 5","rentals united","rentalsunited.com", "data caching", "data sync"],
+    "description": "Rentals United (rentalsunited.com) data synchronization system for Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jasek Zbigniew",
+            "email": "zig@elegrit.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {"Jasekz\\RentalsUnitedCaching": "src/"}
+    }
+}
