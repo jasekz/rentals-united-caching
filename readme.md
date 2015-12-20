@@ -11,7 +11,7 @@ NOTE: If you haven't set up a database yet for your app, please do that first as
 
 Via composer
 ```
-composer require jasekz/rentalsunitedcaching
+composer require jasekz/rentals-united-caching
 ```
 ```
 composer update
