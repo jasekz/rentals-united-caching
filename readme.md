@@ -1,6 +1,6 @@
 # Rentals United Caching
 
-[![Software License][ico-license]](LICENSE.md)
+[![Software License][ico-license]](LICENSE)
 
 
 Synchronize [Rentals United](http://rentalsunited.com/) data with your local database.  
@@ -54,7 +54,7 @@ XML_CACHE_DIR='/path/to/cache/directory/'
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 
 
